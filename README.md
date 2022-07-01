@@ -1,0 +1,14 @@
+# lancelot-user 11 RP1A.200720.011 V12.0.1.0.RJCMIXM release-keys
+- manufacturer: 
+- platform: mt6768
+- codename: lava
+- flavor: awaken_lava-userdebug
+- release: 12
+- id: SQ3A.220605.009.B1
+- incremental: 1655993750
+- tags: release-keys
+- fingerprint: Redmi/lancelot_global/lancelot:11/RP1A.200720.011/V12.0.1.0.RJCMIXM:user/release-keys
+- is_ab: false
+- brand: Redmi
+- branch: lancelot-user-11-RP1A.200720.011-V12.0.1.0.RJCMIXM-release-keys
+- repo: redmi_lava_dump5698
